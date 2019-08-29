@@ -1,0 +1,12 @@
+SITUS KOMIK ONLINE KOMIQU
+
+MPPL:
+- RIZAL ALFARIZI
+- TEGUH ARIANTO
+- WANDA YUDHA PRATAMA
+- NURMAULANI MUSTIKA T
+
+RPL
+- RIVIA GIOVANI
+- FENNY FM
+- FIRMANSYAH GUMILLAR# ini adalah tugas akhir mata kuliah rpl, file ini berisi kode website komik
